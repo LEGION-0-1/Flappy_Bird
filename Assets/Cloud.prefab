@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1273155551967715037}
   - component: {fileID: 5122129844810910292}
-  m_Layer: 2
+  m_Layer: 3
   m_Name: Cloud
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -59,7 +59,7 @@ GameObject:
   m_Component:
   - component: {fileID: 950863898676812137}
   - component: {fileID: 6716135847910606741}
-  m_Layer: 2
+  m_Layer: 3
   m_Name: Cloud1 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -143,7 +143,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2254337718282753295}
   - component: {fileID: 7892206953095369657}
-  m_Layer: 2
+  m_Layer: 3
   m_Name: Cloud1 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -227,7 +227,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3463004036481246751}
   - component: {fileID: 5596998900420123463}
-  m_Layer: 2
+  m_Layer: 3
   m_Name: Cloud1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
