@@ -1117,7 +1117,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1967644645}
   - component: {fileID: 1967644644}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cloud Spawner
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1137,7 +1137,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Cloud: {fileID: 6258844648536884484, guid: 2ac33a17a41bdb24998aa2af004cb490, type: 3}
-  spawnRate: 2
+  spawnRate: 4
   heightOffset: 10
 --- !u!4 &1967644645
 Transform:
@@ -1287,7 +1287,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   pipe: {fileID: 7505057028739406820, guid: 99c135dd470c37046b9f92194c0c7f4b, type: 3}
-  spawnRate: 3
+  spawnRate: 4
   heightOffset: 10
 --- !u!4 &2104279230
 Transform:
